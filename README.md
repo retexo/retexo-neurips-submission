@@ -18,7 +18,7 @@ We have considered the following datasets and architectures
 
 #### Datasets
 &nbsp; Homophilous: cora, citeseer, pubmed, facebook_page, lastfm_asia \
-&nbsp; Heterophilous: wiki-cooc, roman-empire (We borrow these datasets from an anonymous ICLR [submission](https://openreview.net/forum?id=tJbbQfw-5wv))
+&nbsp; Heterophilous: wiki-cooc, roman-empire (We borrow these datasets from a recent work published at ICLR'23 [submission](https://openreview.net/forum?id=tJbbQfw-5wv))
 
 #### Architectures
 &nbsp;   MLP\
